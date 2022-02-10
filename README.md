@@ -1,3 +1,3 @@
-#� �p�o�r�f�o�l�i�o�
+# Simole My-Portfolio
 
 https://muhammadaminbek2005.github.io/porfolio/
